@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kabura Waruthi 
 - 👀 I’m interested in data science
-- 🌱 I’m currently learning Python, R, and Java
+- 🌱 I’m currently learning Python, R, and SQL
 - 📫 How to reach me on kafurawaruthiQ4@gmail.com 
 
 <!---
